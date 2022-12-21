@@ -27,7 +27,7 @@
                          
         </div>
     </div>
-    <h1>Hello, world!</h1>
+    <h1>php</h1>
        <img src="misimg/11Z_AZUL_REY.png">
     <img src="misimg/11Z_AZUL_REY.png">
     <img src="misimg/11Z_AZUL_REY.png">
